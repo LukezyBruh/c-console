@@ -1,0 +1,7 @@
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\obj\Debug\Практос 1.csproj.AssemblyReference.cache
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\obj\Debug\Практос 1.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\bin\Debug\Практос 1.exe.config
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\bin\Debug\Практос 1.exe
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\bin\Debug\Практос 1.pdb
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\obj\Debug\Практос 1.exe
+C:\Users\исп-23\source\repos\Практос 1\Практос 1\obj\Debug\Практос 1.pdb

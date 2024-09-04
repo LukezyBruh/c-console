@@ -1,0 +1,6 @@
+C:\Users\исп-23\source\repos\практос2\практос2\obj\Debug\практос2.csprojAssemblyReference.cache
+C:\Users\исп-23\source\repos\практос2\практос2\bin\Debug\практос2.exe.config
+C:\Users\исп-23\source\repos\практос2\практос2\bin\Debug\практос2.exe
+C:\Users\исп-23\source\repos\практос2\практос2\bin\Debug\практос2.pdb
+C:\Users\исп-23\source\repos\практос2\практос2\obj\Debug\практос2.exe
+C:\Users\исп-23\source\repos\практос2\практос2\obj\Debug\практос2.pdb
